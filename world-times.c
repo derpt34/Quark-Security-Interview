@@ -1,8 +1,9 @@
 /* (c) Daniel Levi Guise, 2017. */
 
 /* TODO: 
-   -fix time zone issue
+   -address time zone change
    -fix printing issue (weird symbol?)
+   -add regex for string parsing
    -add more methods? (OPTIONAL)
 */
 
