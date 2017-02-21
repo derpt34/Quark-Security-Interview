@@ -14,6 +14,6 @@ Once you have the necessary files on your local machine, you can use the Makefil
 
 Once you are done running the program, you can remove any non-essential files by running "make clean" in the command line. 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------
 
 (c) Daniel Levi Guise. 2017
