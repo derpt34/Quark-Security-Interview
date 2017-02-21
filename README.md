@@ -1,4 +1,4 @@
-## Times around the World
+# Times around the World
 
 This program represents the local times of some of the largest cities around the world. Included is the .c source file, associated header files, and a Makefile for compiling the program.
 
@@ -13,5 +13,7 @@ Once you have the necessary files on your local machine, you can use the Makefil
 ## Cleaning Up
 
 Once you are done running the program, you can remove any non-essential files by running "make clean" in the command line. 
+
+
 
 (c) Daniel Levi Guise. 2017
