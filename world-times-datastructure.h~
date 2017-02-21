@@ -1,0 +1,9 @@
+typedef struct city {
+  char *name;
+  int time_diff;
+  struct node *next;
+} City;
+
+typedef struct {
+  City *largest; /* head node */
+} City_list;
