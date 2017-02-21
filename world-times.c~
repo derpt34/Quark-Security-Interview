@@ -1,0 +1,10 @@
+#include <time.h>
+#include <stdio.h>
+
+int main(void) {
+  time_t curr_time = time(NULL);
+
+  printf("Time in Washington DC: %s", ctime(&curr_time));
+
+  return 0;
+}
