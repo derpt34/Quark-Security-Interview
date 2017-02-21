@@ -1,3 +1,5 @@
+/* (c) Daniel Levi Guise, 2017. */
+
 #ifndef CITY_LIST
 #define CITY_LIST
 
