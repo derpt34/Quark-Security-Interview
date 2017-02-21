@@ -1,3 +1,5 @@
+/* (c) Daniel Levi Guise, 2017. */
+
 #include "world-times-datastructure.h"
 
 void create_list(City_list *head);
