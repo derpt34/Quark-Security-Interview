@@ -1,3 +1,5 @@
+/* (c) Daniel Levi Guise, 2017. */
+
 CFLAGS = -g -ansi -pedantic-errors -Wall -Werror -Wshadow -Wwrite-strings
 CC = gcc
 
