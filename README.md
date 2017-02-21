@@ -8,7 +8,7 @@ To use this program, you can either download the files within this repository to
 
 ## Use
 
-Once you have the necessary files on your local machine, you can use the Makefile given and simply type "make" into the command line. This will assemble the program with the executable file "./world-times.x", which can be run by entering said file name into the command line.
+Once you have the necessary files on your local machine, you can use the Makefile given and simply type "make" into the command line. This will assemble the program with the executable file "world-times.x", which can be run by entering s"./world-times.x" into the command line.
 
 ## Cleaning Up
 
