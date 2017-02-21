@@ -1,4 +1,0 @@
-typedef struct node {
-  int data; /* used for time differential */
-  struct node *next;
-}
